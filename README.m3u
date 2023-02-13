@@ -185,5 +185,6 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DRyycB/NatGeo.jpg" group-title="By @paradoxus" tvg-id="NAT GEO HD", NAT GEO HD
 acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="By @paradoxus" tvg-id="HISTORIA", CANAL HISTORIA HDD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="By @paradoxus" tvg-id="HISTORIA", CANAL HISTORIA HD
+
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
